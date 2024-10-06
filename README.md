@@ -1,6 +1,6 @@
 ## Bootstrap Codes for Mellin-Momentum Amplitudes
 
-The codes documenting the bootstrap process for Mellin-momentum amplitudes can be found in the paper by [Jiajie Mei, Mellin-momentum amplitudes formalism](https://arxiv.org/pdf/2305.13894).
+The codes documenting the bootstrap process for Mellin-momentum amplitudes can be found in the following files
 
 - **\texttt{4ym.nb}**: Four-point Yang-Mills (YM)
 - **\texttt{4gr.nb}**: Four-point General Relativity (GR)
@@ -15,3 +15,4 @@ The codes documenting the bootstrap process for Mellin-momentum amplitudes can b
 Unzip the repository and explore the Mathematica files to experiment with the bootstrap process. 
 
 For more details, refer to the publication on [arXiv:2410.XXXXX](#).
+For Mellin-momentum formalism, see [Mellin-momentum amplitudes formalism](https://arxiv.org/pdf/2305.13894)
