@@ -2,10 +2,11 @@
 
 The codes documenting the bootstrap process for Mellin-momentum amplitudes can be found in the following files
 
-- **\texttt{4ym.nb}**: Four-point Yang-Mills (YM)
-- **\texttt{4gr.nb}**: Four-point General Relativity (GR)
-- **\texttt{5ym.nb}**: Five-point YM
-- **\texttt{5gr.nb}**: Five-point GR
+
+- **`4ym.nb`**: Four-point Yang-Mills (YM)
+- **`4gr.nb`**: Four-point General Relativity (GR)
+- **`5ym.nb`**: Five-point YM
+- **`5gr.nb`**: Five-point GR
 
 ### Authors:
 - Jiajie Mei
