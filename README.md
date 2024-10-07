@@ -8,8 +8,8 @@ The codes documenting the bootstrap process for Mellin-momentum amplitudes can b
 - **`5ym.nb`**: Five-point YM
 - **`5gr.nb`**: Five-point GR
 - **`mm amp bootstrap.zip`** contains all precomputed data for 5 point graviton bootstrap,
-  including final result
-- **`GR5fullADS`**. If one wants to run 5gr.nb, one can unzip the files to the same directory with **`5gr.nb`**
+  
+  including final result  **`GR5fullADS`**. If one wants to run 5gr.nb, one can unzip the files to the same directory with **`5gr.nb`**
   
 ### Authors:
 - Jiajie Mei, Yuyu Mo
