@@ -9,8 +9,7 @@ The codes documenting the bootstrap process for Mellin-momentum amplitudes can b
 - **`5gr.nb`**: Five-point GR
 
 ### Authors:
-- Jiajie Mei
-- Yuyu Mo
+- Jiajie Mei, Yuyu Mo
 
 ### Instructions:
 Unzip the repository and explore the Mathematica files to experiment with the bootstrap process. 
