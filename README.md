@@ -15,8 +15,5 @@ The codes documenting the bootstrap process for Mellin-momentum amplitudes can b
 - Jiajie Mei, Yuyu Mo
 
 ### Instructions:
-Unzip the repository and explore the Mathematica files to experiment with the bootstrap process.
-
-
 For more details, refer to the publication on [arXiv:2410.XXXXX](#).
 For Mellin-momentum formalism, see [Mellin-momentum amplitudes formalism](https://arxiv.org/pdf/2305.13894)
