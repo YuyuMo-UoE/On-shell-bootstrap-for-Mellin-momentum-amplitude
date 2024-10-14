@@ -15,5 +15,5 @@ The codes documenting the bootstrap process for Mellin-momentum amplitudes can b
 - Jiajie Mei, Yuyu Mo
 
 ### Instructions:
-For more details, refer to the publication on [arXiv:2410.XXXXX](#).
+For more details, refer to the publication on [Onshell bootstrap in (A)dS for YM and GR](https://arxiv.org/pdf/2410.04875).
 For Mellin-momentum formalism, see [Mellin-momentum amplitudes formalism](https://arxiv.org/pdf/2305.13894)
