@@ -15,5 +15,9 @@ The codes documenting the bootstrap process for Mellin-momentum amplitudes can b
 - Jiajie Mei, Yuyu Mo
 
 ### Instructions:
-For more details, refer to the publication on [Onshell bootstrap in (A)dS for YM and GR](https://arxiv.org/pdf/2410.04875).
-For Mellin-momentum formalism, see [Mellin-momentum amplitudes formalism](https://arxiv.org/pdf/2305.13894)
+For more details, refer to the publications on
+[From on-shell amplitude in AdS to cosmological correlators: gluons and gravitons](https://arxiv.org/pdf/2410.04875) 
+and
+[On-shell Bootstrap for n-gluons and gravitons scattering in (A)dS, Unitarity and Soft limits](https://arxiv.org/pdf/2402.09111).
+For Mellin-momentum formalism, see 
+[Mellin-momentum amplitudes formalism](https://arxiv.org/pdf/2305.13894)
